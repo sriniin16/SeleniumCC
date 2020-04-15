@@ -6,9 +6,10 @@
             <class name="Steps.AppTest">
                 <methods>
                     <include name="shouldAnswerWithTrue"/>
-                    <include name="MyTest1"/>
+                    <include name="PalindromeTest"/>
                 </methods>
             </class>
+            <class name="Steps.BaseStep"></class>
         </classes>
     </test>
 </suite>
